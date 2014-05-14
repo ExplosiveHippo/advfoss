@@ -43,6 +43,7 @@
           <li><a href="/hw">Assignments</a></li>
           <li><a href="/decause">Instructor</a></li>
           <li><a href="/checkblogs">Participants</a></li>
+          <li><a href="/pastprojects">Past Projects</a><li>
           <li><a target="_blank" href="http://webchat.freenode.net/?&amp;channels=rit-foss">Instant IRC</a></li>
         </ul>
       </div><!--/.nav-collapse -->
